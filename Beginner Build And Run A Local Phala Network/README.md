@@ -10,3 +10,12 @@ https://discord.com/channels/697726436211163147/706401317240963142/7736295539433
 
 
 
+<h3> phala-node </h3>
+<img src="./Terminal window 1 phala-node.PNG"></img>
+
+<h3> prune time </h3>
+<img src="./Terminal window 2 pruntime.PNG"></img>
+
+<h3> phost </h3>
+<img src="./Terminal window 3 phost.PNG"></img>
+
