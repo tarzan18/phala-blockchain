@@ -19,3 +19,6 @@ https://discord.com/channels/697726436211163147/706401317240963142/7736295539433
 <h3> phost </h3>
 <img src="./Terminal window 3 phost.PNG"></img>
 
+<h3> secret assets </h3>
+<img src="./SecretAsset.PNG"></img>
+
